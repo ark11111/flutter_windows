@@ -20,8 +20,6 @@ samples, guidance on mobile development, and a full API reference.
 test
 
 
-A new Flutter project.
-
 
 
 import 'package:flutter/material.dart';
